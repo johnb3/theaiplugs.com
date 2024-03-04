@@ -20,5 +20,6 @@ The organization is as follows:
      - OpenAI Function Calling demo
      - ChatGPT demo
 2) **Sellers**
+   - **How To Signup As A Seller**
    - **Plugin/Tool setup description**
    - **Assistant/Agent setup description**
